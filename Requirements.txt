@@ -1,0 +1,25 @@
+Modules:
+
+EXT-Alert
+EXT-Background
+EXT-Pir
+EXT-Detector
+EXT-Screen
+EXT-YoutubeCast
+MMM-CricketScores
+MMM-EasyPix
+MMM-GoogleAssistant
+MMM-PiTemp
+MMM-Pure-Snow
+MMM-Screencast
+MMM-TomTomCalculateRouteTraffic
+
+Hardware:
+USB-Mic
+Pir-Sensor
+Speaker
+
+Pir-Sensor Connection:
+1) 5V VCC supply connection between pin 4 of pi and pir-sensor
+2) Connect wire between pin 6 and ground of pir-sensor
+3) Connect wire between pin 7 and input of pir-sensor
