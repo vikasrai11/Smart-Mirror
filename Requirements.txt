@@ -1,5 +1,4 @@
 Modules:
-
 EXT-Alert
 EXT-Background
 EXT-Pir
@@ -8,11 +7,13 @@ EXT-Screen
 EXT-YoutubeCast
 MMM-CricketScores
 MMM-EasyPix
-MMM-GoogleAssistant
+MMM-GoogleAssistant (Voice Assistant)
 MMM-PiTemp
 MMM-Pure-Snow
 MMM-Screencast
 MMM-TomTomCalculateRouteTraffic
+For adding this modules visit the link given:
+https://kristjanesperanto.github.io/MagicMirror-3rd-Party-Modules/
 
 Hardware:
 USB-Mic
